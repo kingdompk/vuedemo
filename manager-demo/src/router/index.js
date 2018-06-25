@@ -5,5 +5,6 @@ export default {
   routes : [
     {path : '/', component : Login},
     {path : '/login',component : Login},
+    {path : '/layout', component : Layout}
   ]
 }
